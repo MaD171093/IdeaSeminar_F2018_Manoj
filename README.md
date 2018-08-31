@@ -1,2 +1,3 @@
-# Turtle-Pattern-2D
-Pattern produced using turtle library for python
+# Idea Seminar Fall 2018
+
+Works/code produced during the Idea Seminar Fall 2018
